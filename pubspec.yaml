@@ -23,6 +23,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^0.17.4
+  flutter_screenutil: ^1.0.2
+  carousel_slider: ^2.0.0
+  page_transition: ^1.1.5
 
 
   # The following adds the Cupertino Icons font to your application.
