@@ -23,7 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  line_awesome_flutter: "^1.0.1"
+  line_awesome_flutter: ^1.0.1
+  flutter_screenutil: ^1.0.2
+  animated_theme_switcher: ^1.0.5
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -62,7 +64,7 @@ flutter:
   fonts:
     - family: SFProText
       fonts:
-        - asset: assets/fonts/SF-Pro-Text-Then.otf
+        - asset: assets/fonts/SF-Pro-Text-Thin.otf
           weight: 100
         - asset: assets/fonts/SF-Pro-Text-Regular.otf
           weight: 400
